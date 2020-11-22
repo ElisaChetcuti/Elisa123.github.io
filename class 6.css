@@ -1,0 +1,30 @@
+body{
+    border: 10px solid #bdc7cf;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.date{
+   color: #3098dd; 
+   text-transform: uppercase;
+   letter-spacing: 3px;
+   margin: 20px;
+}
+
+.title{
+    margin: 20px;
+    color: #354b63;
+}
+
+p{
+    margin: 20px;
+}
+
+.paragraph1{
+    border-left: 5px solid #bdc7cf;
+    margin: 20px;
+}
+
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
