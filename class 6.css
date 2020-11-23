@@ -21,6 +21,7 @@ p{
 .paragraph1{
     border-left: 5px solid #bdc7cf;
     margin: 20px;
+    padding: 5px;
 }
 
 hr{
